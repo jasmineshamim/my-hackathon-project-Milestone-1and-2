@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    font-family: "Gill Sans", sans-serif;
+}
+
+
+ body {
+    background-color: #dedbd2;
+    margin: 0;
+    padding: 90px;
+ }
+.resume-container {
+    background-color: white;
+    display: flex;
+    width: 55%;
+    margin: 0 auto;
+    box-shadow: 0 0 20px #2c2a4a;
+    border: 8px solid purple;
+
+}
+.left-section{
+    background-color: white;
+    color: black;
+    padding-left: 35px;
+    padding-right: 35px;
+    width: 40%;
+    text-align: center;
+    border-right: 1px solid black ;
+
+}
+img{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin-top: 0%;
+    box-shadow: 5px 5px 15px black;
+    /* box-shadow: 3px 3px black, -1em 0 .4em black; */
+  
+} 
+ h1{
+    font-size: 30px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    padding: 2%;
+    margin:  10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(177, 98, 177);
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+ul{
+    list-style-type: disc;
+    padding: 10;
+}
+ul li{
+    margin: 5px 0;
+    margin-left: 0px;
+}
+.right-section{
+    padding: 20px;
+    width: 65%;
+}
+
+button {
+    border: 1px solid black; /* Adjust border thickness as needed */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(199, 56, 199);
+    cursor: pointer;
+    background-color: rgb(160, 49, 160);
+    margin-top: 10px;
+    margin-left: 20%;
+    font-size: 17px; /* Adjust the button font size */
+    padding: 10px 20px; /* Adjust padding for button size */
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #d8b3d5;
+}
+
+.click {
+    font-size: 14px; /* Adjust font size inside the button */
+    color: black; /* Optional: Change text color */
+}
+
+.color {
+    background-color: #9D4EDD;
+    background-color: #D9BBF2;
+    min-height: 138vh;
+    width: 100%;
+    padding-top: 14%;
+} 
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.center{
+    font-size: 15px;
+    margin-left: 25px ;
+    /* margin-right: 24px; */
+ }
+ .set-center{
+    margin-left: 5px  ;
+ }
+.set-centers{
+    margin-left: 30px;
+    margin-right: 8px;
+    font-size: 15px;
+    font-family:  "Gill Sans", sans-serif;
+}
+
+#work-experience{
+    margin-top: 25px;
+}
+
+.small{
+    font-size: 15px;
+}
+
+
+
+.skill-bar {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    width: 95%;
+    height: 10px;
+    margin-bottom: 10px;
+  }
+  .skill-level {
+    background-color: purple;
+    height: 100%;
+    border-radius: 5px;
+  }
+
+.style{
+    font-family: Georgia, serif;
+}
+
+.style {
+    font-size: 2rem; /* Adjust size as needed */
+    font-family: "Gill Sans", sans-serif;
+    background: linear-gradient(135deg, black, #2b2929);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(10, 9, 10, 0.3);
+    margin: auto;
+
+  
+}
+
+.ongoing{
+    font-size: 13px;
+}
+.contact{
+    margin-top: 8px;
+    font-size: 15px;
+    font-family: "Gill Sans", sans-serif;
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
