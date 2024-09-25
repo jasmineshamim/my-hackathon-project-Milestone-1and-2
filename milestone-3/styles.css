@@ -1,0 +1,96 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(240, 230, 233);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    text-shadow: 0 0 15px #d8648b;
+
+    
+
+}
+
+form {
+    background: #ffcfd2;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 15px #d8648b;
+    border: 5px solid #d8648b;
+}
+
+fieldset {
+    border: 1px solid #d8648b;
+    background-color: #ffe5ec;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+legend {
+    padding: 0 10px;
+    font-size: 23px;
+  
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-size: 17px;
+}
+
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px #d8648b;
+}
+
+button {
+    color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 3px solid #d8648b;
+    margin-left: 200px;
+}
+
+button:hover {
+    box-shadow: 0 0 15px  #d8648b;
+    background-color: #d8648b;
+    color: white;
+
+}
+
+ input,textarea {
+    margin-top: 4px;
+    padding: 8px;
+    border: 2px solid #d8648b;
+    border-radius: 4px; 
+    margin-bottom: 10px;
+    width: 97%;
+    box-shadow: 0 0 15px #d8648b;
+}
+#resume-display {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 0.7cqh solid #d8648b;
+    border-radius: 7px;
+    background-color: #ffcfd2;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+ 
+
+
